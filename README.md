@@ -170,3 +170,7 @@ done
 ## Final Thoughts
 
 This project helped me gain deeper understanding of Bash scripting by combining loops, conditionals, user inputs, and custom output formatting into a clean, interactive program.
+![](https://github.com/adaezeokoduwa/linux-shell-scripting-project/blob/main/img/CAPSTONELOOP.jpg?raw=true)
+![](https://github.com/adaezeokoduwa/linux-shell-scripting-project/blob/main/img/CAPSTONELOOP1.jpg?raw=true)
+![](https://github.com/adaezeokoduwa/linux-shell-scripting-project/blob/main/img/CAPSTONELOOP2.jpg?raw=true)
+![](https://github.com/adaezeokoduwa/linux-shell-scripting-project/blob/main/img/CAPSTONELOOP3.jpg?raw=true)
